@@ -17,8 +17,10 @@ export function RightSection({
             <p>Your monthly repayments</p>
             <h1 className="resultf">£{monthlyResult}</h1>
             <hr className="b" />
-            <p>Total you'll repay over the term </p>
-            <h4>£{totalRepayment}</h4>
+            <div>
+              <p>Total you'll repay over the term </p>
+              <h4>£{totalRepayment}</h4>
+            </div>
           </div>
         </div>
       ) : (
