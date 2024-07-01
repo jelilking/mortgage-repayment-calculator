@@ -330,6 +330,10 @@ input:focus {
     border-radius: 0;
   }
 
+  .left {
+    margin-top: 16rem;
+  }
+
   .split {
     flex-direction: column;
   }
