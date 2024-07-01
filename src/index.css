@@ -220,7 +220,6 @@ input {
   align-items: center;
   margin-bottom: 10px;
   position: relative;
-  width: calc(100% - 20px);
 }
 
 .radio-input:hover {
@@ -288,7 +287,7 @@ input:focus {
     background-color: var(--Slate-100);
     width: 100%;
     height: auto;
-    margin: 80px auto;
+    margin: 100px auto;
     border-radius: 10px;
   }
 
