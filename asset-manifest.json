@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mortgage-repayment-calculator/static/css/main.f3b7ba25.css",
+    "main.js": "/mortgage-repayment-calculator/static/js/main.40f6531e.js",
+    "index.html": "/mortgage-repayment-calculator/index.html",
+    "main.f3b7ba25.css.map": "/mortgage-repayment-calculator/static/css/main.f3b7ba25.css.map",
+    "main.40f6531e.js.map": "/mortgage-repayment-calculator/static/js/main.40f6531e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b7ba25.css",
+    "static/js/main.40f6531e.js"
+  ]
+}
