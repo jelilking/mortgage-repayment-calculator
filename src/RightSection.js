@@ -1,3 +1,5 @@
+import errCacl from "./images/illustration-empty.svg";
+
 export function RightSection({
   monthlyResult,
   totalRepayment,
@@ -25,7 +27,7 @@ export function RightSection({
         </div>
       ) : (
         <div className="error-result">
-          <img src="/public/images/illustration-empty.svg" alt="calculator" />
+          <img src={errCacl} alt="calculator" />
           <h3>Results shown here</h3>
           <p>
             Complete the form and click “calculate repayments” to see what your

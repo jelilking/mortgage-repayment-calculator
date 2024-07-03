@@ -1,3 +1,5 @@
+import btnCalc from "./images/icon-calculator.svg";
+
 export function LeftSection({
   handleClear,
   mortgageAmount,
@@ -113,7 +115,7 @@ export function LeftSection({
             <p className="err">This field is required</p>
           )}
           <button type="submit" className="btn-calc">
-            📱Calculate Repayment
+            <img src={btnCalc} alt="calc" /> Calculate Repayments
           </button>
         </form>
       </div>
